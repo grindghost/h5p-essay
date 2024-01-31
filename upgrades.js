@@ -1,5 +1,4 @@
 var H5PUpgrades = H5PUpgrades || {};
-
 H5PUpgrades['H5P.Essay'] = (function () {
   return {
     1: {
